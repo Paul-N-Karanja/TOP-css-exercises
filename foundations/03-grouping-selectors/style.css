@@ -1,0 +1,13 @@
+.clickMeBtn, .noClickMeBtn{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.clickMeBtn{
+    background-color: black;
+    color: white;
+}
+
+.noClickMeBtn{
+    background-color: yellow;
+}
